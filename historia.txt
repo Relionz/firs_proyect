@@ -7,4 +7,6 @@ y quiero aprender a programar
 Soy el más alto del salón.
 Año 2020
 
-ahora vamos a abrir una ramad
+ahora vamos a abrir una rama
+ahora estamos en master
+hola MASTER CHECF  d
