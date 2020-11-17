@@ -10,4 +10,5 @@ Año 2020 con superman y batman
 ahora vamos a abrir una rama
 ahora estamos en master
 hola MASTER CHECF  
-estamos en master 2.00
+estamos en rama new 2.00 ok
+este es una nueva linea
