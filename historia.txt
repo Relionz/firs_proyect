@@ -11,3 +11,4 @@ ahora vamos a abrir una rama
 ahora estamos en master
 hola MASTER CHECF  
 estamos en rama new 2.00 ok
+este es una nueva linea
